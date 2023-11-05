@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ja-JP</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Artist</Key>
+    <Value>アーティスト</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Title</Key>
+    <Value>タイトル</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Album</Key>
+    <Value>アルバム</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Intro</Key>
+    <Value>イントロ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Duration</Key>
+    <Value>再生時間</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Bpm</Key>
+    <Value>BPM</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>OriginalArtist</Key>
+    <Value>オリジナルアーティスト</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Composer</Key>
+    <Value>作曲者</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Year</Key>
+    <Value>年</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Publisher</Key>
+    <Value>出版社</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ID</Key>
+    <Value>ID</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Path</Key>
+    <Value>ファイルパス</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Enabled</Key>
+    <Value>有効</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Weight</Key>
+    <Value>優先度</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>TrackNo</Key>
+    <Value>トラック番号</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DiscNo</Key>
+    <Value>ディスク番号</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DatePlayed</Key>
+    <Value>再生日</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ArtistPlayed</Key>
+    <Value>再生アーティスト</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AlbumPlayed</Key>
+    <Value>再生アルバム</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Copyright</Key>
+    <Value>著作権</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Isrc</Key>
+    <Value>ISRC</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AlbumArt</Key>
+    <Value>アルバムアート</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>CountPlayed</Key>
+    <Value>再生回数</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>StartDate</Key>
+    <Value>開始日</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>EndDate</Key>
+    <Value>終了日</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DateAdded</Key>
+    <Value>追加日</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Mood</Key>
+    <Value>ムード</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Gender</Key>
+    <Value>性別</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Language</Key>
+    <Value>言語</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Rating</Key>
+    <Value>評価</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>TitlePlayed</Key>
+    <Value>再生タイトル</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DateModified</Key>
+    <Value>変更日</Value>
+  </Settings>
+  
+</NewDataSet>

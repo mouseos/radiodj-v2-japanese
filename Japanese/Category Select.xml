@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ja-JP</Value>
+  </Settings>
+  
+  <!-- 翻訳開始 --> 
+  
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>カテゴリからファイル</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grFilters</Key>
+    <Value>カテゴリまたはジャンルからファイル</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbCategory</Key>
+    <Value>カテゴリ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSubcategory</Key>
+    <Value>サブカテゴリ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbGenre</Key>
+    <Value>ジャンル</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtAnyGenre</Key>
+    <Value>どのジャンルでも</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSelMode</Key>
+    <Value>選択モード</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbSelType0</Key>
+    <Value>最も最近再生された項目</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbSelType1</Key>
+    <Value>最も再生された項目</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbSelType2</Key>
+    <Value>最も再生回数の少ない項目</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbSelType3</Key>
+    <Value>最も再生回数の多い項目</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbSelType4</Key>
+    <Value>優先度順</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbSelType5</Key>
+    <Value>ランダム</Value>
+  </Settings>
+  
+  <!-- ボタン --> 
+  
+  <Settings>
+    <Key>bAddCatTrack</Key>
+    <Value>アクションを追加</Value>
+  </Settings>
+  
+</NewDataSet>

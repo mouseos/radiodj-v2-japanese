@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ja-JP</Value>
+  </Settings>
+  
+  <!-- 翻訳開始 --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>補助プレイヤー</Value>
+  </Settings>
+  <Settings>
+    <Key>butStop_tip</Key>
+    <Value>停止</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlay_tip</Key>
+    <Value>再生</Value>
+  </Settings>
+  <Settings>
+    <Key>butLoop_tip</Key>
+    <Value>繰り返し</Value>
+  </Settings>
+  <Settings>
+    <Key>lbElapsedTime_tip</Key>
+    <Value>経過時間</Value>
+  </Settings>
+  <Settings>
+    <Key>lbRemainingTime_tip</Key>
+    <Value>残り時間</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTotalTime_tip</Key>
+    <Value>再生時間</Value>
+  </Settings>
+  <Settings>
+    <Key>butADD_tip</Key>
+    <Value>追加</Value>
+  </Settings>
+  <Settings>
+    <Key>menOpenDBFile</Key>
+    <Value>データベースから追加</Value>
+  </Settings>
+  <Settings>
+    <Key>menuOpenFile</Key>
+    <Value>ファイルを開く</Value>
+  </Settings>
+  <Settings>
+    <Key>menuClearPlayer</Key>
+    <Value>ファイルを閉じる</Value>
+  </Settings>
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>補助プレイヤー</Value>
+  </Settings>
+
+</NewDataSet>

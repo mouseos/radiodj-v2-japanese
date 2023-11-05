@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ja-JP</Value>
+  </Settings>
+  
+  <!-- 翻訳開始 --> 
+  
+  <Settings>
+    <Key>MainTitle.Text</Key>
+    <Value>カテゴリマネージャ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Group.Category.Text</Key>
+    <Value>カテゴリ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Group.Subcategory.Text</Key>
+    <Value>サブカテゴリ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Group.Genre.Text</Key>
+    <Value>ジャンル</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Button.Rename.Text</Key>
+    <Value>名前変更</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Button.Ok.Text</Key>
+    <Value>OK</Value>
+  </Settings>
+  
+</NewDataSet>

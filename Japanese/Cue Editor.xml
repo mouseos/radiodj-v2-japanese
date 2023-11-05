@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ja-JP</Value>
+  </Settings>
+  
+  <!-- 翻訳開始 --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>CUEエディタ</Value>
+  </Settings>
+  
+  <!-- グループ操作 --> 
+  
+  <Settings>
+    <Key>grOperations</Key>
+    <Value>操作</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>editCue</Key>
+    <Value>編集モード</Value>
+  </Settings>
+  
+  <!-- グループフェード --> 
+  
+  <Settings>
+    <Key>grFading</Key>
+    <Value>フェード設定</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbFadeIn</Key>
+    <Value>フェードイン</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbFadeOut</Key>
+    <Value>フェードアウト</Value>
+  </Settings>
+  
+  <!-- グループカスタム設定 --> 
+  
+  <Settings>
+    <Key>grCustomSettings</Key>
+    <Value>カスタム設定</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbStartLevelThr</Key>
+    <Value>開始閾値</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbNextStart</Key>
+    <Value>ミックス閾値</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbEndLevel</Key>
+    <Value>終了閾値</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butCustSet</Key>
+    <Value>設定を適用</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butDefSet</Key>
+    <Value>デフォルト設定を適用</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butDefault</Key>
+    <Value>デフォルトとして保存</Value>
+  </Settings>
+  
+  <!-- グループボタン --> 
+  
+  <Settings>
+    <Key>bSave</Key>
+    <Value>保存</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>bCancel</Key>
+    <Value>キャンセル</Value>
+  </Settings>
+</NewDataSet>

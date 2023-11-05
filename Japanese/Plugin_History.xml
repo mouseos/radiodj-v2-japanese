@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ja-JP</Value>
+  </Settings>
+  
+  <!-- 翻訳開始 --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>履歴</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>再生されたトラックの履歴を保持します。</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cDatePlayed</Key>
+    <Value>再生日</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cArtist</Key>
+    <Value>アーティスト</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cTitle</Key>
+    <Value>タイトル</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cDuration</Key>
+    <Value>再生時間</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbListeners</Key>
+    <Value>オンラインリスナー数: </Value>
+  </Settings>
+  
+  <!-- オプション --> 
+  
+  <Settings>
+    <Key>HistoryOptions</Key>
+    <Value>履歴オプション</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grOptions</Key>
+    <Value>オプション</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbZone</Key>
+    <Value>プラグインゾーン</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckEnableDBHistory</Key>
+    <Value>履歴を保持</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbKeepHistory</Key>
+    <Value>履歴を保持する日数</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbRows2Display</Key>
+    <Value>表示する行数</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butOK</Key>
+    <Value>閉じる</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ShowListeners</Key>
+    <Value>リスナーカウントを表示</Value>
+  </Settings>
+  
+</NewDataSet>

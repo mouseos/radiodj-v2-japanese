@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ja-JP</Value>
+  </Settings>
+  
+  <!-- 翻訳開始 --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>TCPサーバー</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>PluginDescription</Key>
+    <Value>ローカルネットワークまたはインターネットを使用してプログラムを制御できます。</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>TCPサーバー</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grSettings</Key>
+    <Value>サーバー設定</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbIP</Key>
+    <Value>IPアドレス：</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPort</Key>
+    <Value>ポート：</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPassword</Key>
+    <Value>パスワード：</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckAutoStart</Key>
+    <Value>自動起動</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtStop</Key>
+    <Value>停止</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtStart</Key>
+    <Value>開始</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butSave</Key>
+    <Value>保存</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butClose</Key>
+    <Value>閉じる</Value>
+  </Settings>
+  
+</NewDataSet>

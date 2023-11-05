@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ja-JP</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>トラックリスト</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butStart</Key>
+    <Value>開始</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butIntro</Key>
+    <Value>イントロ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butEnd</Key>
+    <Value>終了</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>bAddSelFile</Key>
+    <Value>追加</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butCancelTrack</Key>
+    <Value>ファイルのキャンセル</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>bClose</Key>
+    <Value>閉じる</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cArtist</Key>
+    <Value>アーティスト</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cTitle</Key>
+    <Value>タイトル</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cDuration</Key>
+    <Value>再生時間</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cIntro</Key>
+    <Value>イントロ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cLastPlayed</Key>
+    <Value>最終再生</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>String.AnyCategory</Key>
+    <Value>任意のカテゴリ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>String.AnySubcategory</Key>
+    <Value>任意のサブカテゴリ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>String.AnyGenre</Key>
+    <Value>任意のジャンル</Value>
+  </Settings>
+  
+</NewDataSet>

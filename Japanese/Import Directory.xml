@@ -1,0 +1,142 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ja-JP</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>ディレクトリのインポート</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grContainer</Key>
+    <Value>インポート設定</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckSubdirs</Key>
+    <Value>完全なスキャン</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSubdirs</Key>
+    <Value>(サブディレクトリを含む)</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbCategory</Key>
+    <Value>カテゴリ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSubcategory</Key>
+    <Value>サブカテゴリ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbGenre</Key>
+    <Value>ジャンル</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckID3Genre</Key>
+    <Value>ID3からジャンル取得</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbTrackType</Key>
+    <Value>トラックの種類</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPlayFiles</Key>
+    <Value>トラックを再生</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbTimesAndThen</Key>
+    <Value>回再生、その後</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPriority</Key>
+    <Value>優先度</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckClearCategory</Key>
+    <Value>サブカテゴリを空にする</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbClearInfo</Key>
+    <Value>(選択されたサブカテゴリからインポートされたトラックをすべて消去します！)</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckEnabled</Key>
+    <Value>トラックを有効にする</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>bImportDirectory</Key>
+    <Value>ディレクトリをインポート</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>bCancel</Key>
+    <Value>閉じる</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tracktypelist0</Key>
+    <Value>音楽</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tracktypelist1</Key>
+    <Value>ジングル</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tracktypelist2</Key>
+    <Value>スウィーパー</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tracktypelist3</Key>
+    <Value>ボイスオーバー</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tracktypelist4</Key>
+    <Value>コマーシャル</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tracktypelist5</Key>
+    <Value>その他</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>playaction0</Key>
+    <Value>何もしない</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>playaction1</Key>
+    <Value>無効化</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>playaction2</Key>
+    <Value>削除</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>playaction3</Key>
+    <Value>移動先</Value>
+  </Settings>
+</NewDataSet>

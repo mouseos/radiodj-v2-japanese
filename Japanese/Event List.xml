@@ -1,0 +1,110 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ja-JP</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MainTitle.Text</Key>
+    <Value>イベント一覧</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butAddEvent.Text</Key>
+    <Value>新しいイベント</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butClose.Text</Key>
+    <Value>閉じる</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cEventTime.HeaderText</Key>
+    <Value>イベント時刻</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>EventName.HeaderText</Key>
+    <Value>イベント名</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cEventEnabled.HeaderText</Key>
+    <Value>有効</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>newEventToolStripMenuItem.Text</Key>
+    <Value>新しいイベント</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>duplicateEventToolStripMenuItem.Text</Key>
+    <Value>イベントの複製</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>deleteEventToolStripMenuItem.Text</Key>
+    <Value>イベントの削除</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Confirmation.DeleteEvent.Title</Key>
+    <Value>イベントの削除</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Confirmation.DeleteEvent.Text</Key>
+    <Value>本当にこのイベントを削除しますか？</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckUpcomingOnly</Key>
+    <Value>時間で表示</Value>
+  </Settings>
+  
+  <!-- v1.6.3.3 -->
+  
+  <Settings>
+    <Key>butRefresh</Key>
+    <Value>更新</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ButCategories</Key>
+    <Value>カテゴリ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txEventsCategories</Key>
+    <Value>イベントのカテゴリ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txConfirmatioNeeded</Key>
+    <Value>確認が必要</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txDeleteCategory</Key>
+    <Value>選択したカテゴリを本当に削除しますか？</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txRenameCategory</Key>
+    <Value>選択したカテゴリの名前を本当に変更しますか？</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txAllEvents</Key>
+    <Value>すべてのイベント</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txCategoriesClose</Key>
+    <Value>閉じる</Value>
+  </Settings>
+  
+</NewDataSet>

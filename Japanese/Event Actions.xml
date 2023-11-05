@@ -1,0 +1,239 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ja-JP</Value>
+  </Settings>
+  
+  <!-- 翻訳開始 -->
+  
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>イベントアクション</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tabMainActions</Key>
+    <Value>メインアクション</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tabPlugins</Key>
+    <Value>プラグイン</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grActions</Key>
+    <Value>アクション</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPosition</Key>
+    <Value>位置</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbOptions</Key>
+    <Value>オプション</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPath</Key>
+    <Value>パス (URL)</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbArguments</Key>
+    <Value>引数</Value>
+  </Settings>
+  
+  <!-- グループプレイリスト -->
+  
+  <Settings>
+    <Key>grPlaylist</Key>
+    <Value>プレイリスト</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>LoadTrack</Key>
+    <Value>トラックの読み込み</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>LoadTrackFromCategory</Key>
+    <Value>カテゴリからトラックを読み込む</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>LoadPlaylist</Key>
+    <Value>プレイリストの読み込み</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ShufflePlaylist</Key>
+    <Value>プレイリストをシャッフル</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ClearPlaylist</Key>
+    <Value>プレイリストのクリア</Value>
+  </Settings>
+  
+  <!-- グループ再生 -->
+  
+  <Settings>
+    <Key>grPlayback</Key>
+    <Value>再生</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Play</Key>
+    <Value>再生開始</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Pause</Key>
+    <Value>一時停止</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>UnPause</Key>
+    <Value>再開</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Stop</Key>
+    <Value>再生停止</Value>
+  </Settings>
+  
+  <!-- グループ自動化 -->
+  
+  <Settings>
+    <Key>grAutomation</Key>
+    <Value>自動化</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>EnableAutoDJ</Key>
+    <Value>Auto DJを有効化</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DisableAutoDJ</Key>
+    <Value>Auto DJを無効化</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>LoadRotation</Key>
+    <Value>トラックローテーションの読み込み</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>SetSweeperCategory</Key>
+    <Value>スウィーパーカテゴリの設定</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>PauseEvents</Key>
+    <Value>イベントの一時停止</Value>
+  </Settings>
+  
+  <!-- グループ入力 -->
+  
+  <Settings>
+    <Key>grInputs</Key>
+    <Value>入力</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MuteInput</Key>
+    <Value>入力のミュート</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>UnMuteInput</Key>
+    <Value>入力のミュート解除</Value>
+  </Settings>
+  
+  <!-- グループその他 -->
+  
+  <Settings>
+    <Key>grOthers</Key>
+    <Value>その他</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>RunApplication</Key>
+    <Value>アプリケーションの実行</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>LaunchInternetLink</Key>
+    <Value>インターネットリンクの起動</Value>
+  </Settings>
+  
+  <!-- RC2 -->
+  
+  <Settings>
+    <Key>EnableEventsCategory</Key>
+    <Value>イベントカテゴリを有効化</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DisableEventsCategory</Key>
+    <Value>イベントカテゴリを無効化</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AssistedEnable</Key>
+    <Value>アシステッドを有効化</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AssistedDisable</Key>
+    <Value>アシステッドを無効化</Value>
+  </Settings>
+  
+  <!-- RC3 -->
+  
+  <Settings>
+    <Key>LoadM3UPlaylist</Key>
+    <Value>M3Uプレイリストの読み込み</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>SecondsToWait</Key>
+    <Value>待機秒数</Value>
+  </Settings>
+  
+  <!-- 1.8.3 -->
+  
+  <Settings>
+    <Key>RunSQLQuery</Key>
+    <Value>SQLクエリの実行</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>StartRecording</Key>
+    <Value>録音の開始</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>StopRecording</Key>
+    <Value>録音の停止</Value>
+  </Settings>
+  
+  <!-- ボタン -->
+  
+  <Settings>
+    <Key>butAddAction</Key>
+    <Value>アクションの追加</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butClose</Key>
+    <Value>閉じる</Value>
+  </Settings>
+  
+</NewDataSet>

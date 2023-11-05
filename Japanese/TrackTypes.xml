@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ja-JP</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AnyTrackType</Key>
+    <Value>任意のトラックタイプ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Music</Key>
+    <Value>音楽</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Jingle</Key>
+    <Value>ジングル</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Sweeper</Key>
+    <Value>スイーパー</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Voiceover</Key>
+    <Value>ボイスオーバー</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Commercial</Key>
+    <Value>コマーシャル</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>InternetStream</Key>
+    <Value>インターネットストリーム</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Other</Key>
+    <Value>その他</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>VDF</Key>
+    <Value>可変時間ファイル</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Podcast</Key>
+    <Value>ポッドキャスト</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Request</Key>
+    <Value>リクエスト</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>News</Key>
+    <Value>ニュース</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>PlaylistEvent</Key>
+    <Value>プレイリストイベント</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>FileByDate</Key>
+    <Value>日付別ファイル</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>NewestFromFolder</Key>
+    <Value>フォルダ内の最新</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Teaser</Key>
+    <Value>ティーザー</Value>
+  </Settings>
+</NewDataSet>

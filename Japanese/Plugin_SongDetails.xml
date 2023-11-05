@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ja-JP</Value>
+  </Settings>
+
+  <!-- 翻訳開始 -->
+
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>曲の詳細</Value>
+  </Settings>
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>再生中のトラックに関する情報を表示します。</Value>
+  </Settings>
+  <Settings>
+    <Key>Artist</Key>
+    <Value>アーティスト</Value>
+  </Settings>
+  <Settings>
+    <Key>Title</Key>
+    <Value>タイトル</Value>
+  </Settings>
+  <Settings>
+    <Key>Album</Key>
+    <Value>アルバム</Value>
+  </Settings>
+  <Settings>
+    <Key>Year</Key>
+    <Value>年</Value>
+  </Settings>
+  <Settings>
+    <Key>Composer</Key>
+    <Value>作曲者</Value>
+  </Settings>
+  <Settings>
+    <Key>Publisher</Key>
+    <Value>出版社</Value>
+  </Settings>
+  <Settings>
+    <Key>Track</Key>
+    <Value>トラック</Value>
+  </Settings>
+  <Settings>
+    <Key>Disc</Key>
+    <Value>ディスク</Value>
+  </Settings>
+  <Settings>
+    <Key>Copyright</Key>
+    <Value>著作権</Value>
+  </Settings>
+
+</NewDataSet>
