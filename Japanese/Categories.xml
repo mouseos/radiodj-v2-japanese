@@ -6,8 +6,6 @@
     <Value>ja-JP</Value>
   </Settings>
   
-  <!-- 翻訳開始 --> 
-  
   <Settings>
     <Key>MainTitle.Text</Key>
     <Value>カテゴリマネージャ</Value>
