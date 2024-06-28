@@ -6,8 +6,6 @@
     <Value>ja-JP</Value>
   </Settings>
   
-  <!-- 翻訳開始 --> 
-  
   <Settings>
     <Key>topLabel</Key>
     <Value>カテゴリからファイル</Value>
@@ -72,8 +70,6 @@
     <Key>cbSelType5</Key>
     <Value>ランダム</Value>
   </Settings>
-  
-  <!-- ボタン --> 
   
   <Settings>
     <Key>bAddCatTrack</Key>
